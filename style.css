@@ -17,3 +17,13 @@
 .container {
   margin-bottom: 250px;
 }
+
+.project img{
+  width:70%;
+  height: auto;
+}
+
+.project a{
+  text-decoration: none;
+  
+}
