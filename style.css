@@ -25,10 +25,13 @@
 
 .project a{
   text-decoration: none;
-
 }
 
 .games img{
   width: 25%;
   height: auto;
+}
+
+.games a{
+  text-decoration: none;
 }
