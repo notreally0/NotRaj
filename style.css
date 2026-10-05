@@ -35,3 +35,8 @@
 .games a{
   text-decoration: none;
 }
+
+.Photos img{
+  width: 25%;
+  height: auto;
+}
