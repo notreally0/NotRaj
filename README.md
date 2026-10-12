@@ -2,6 +2,7 @@
 
 ##What it is
 - its a small Portfolio website that reflects my intrests and introduces me.
+  
 ##Why i made it 
 - so people can connect with me and get to know me 
 
